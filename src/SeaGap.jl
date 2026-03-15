@@ -88,4 +88,7 @@ include("plot_displacement.jl")
 # Test program
 include("forward_test.jl")
 include("forward_gradv.jl")
+
+# Simulation
+include("simulate_gnssa.jl")
 end

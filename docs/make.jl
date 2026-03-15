@@ -27,6 +27,7 @@ makedocs(;
             "Static array positioning with sound speed gradients" => "Methodology/mcmcpvg.md",
           ],
         "Tutorials" => [
+            "Simulation" => "Tutorials/simulation.md",
             "Forward calculation" => "Tutorials/forward.md",
             "Outlier removal" => "Tutorials/denoise.md",
             "Kinematic array positioning" => "Tutorials/tkinematic.md",
@@ -36,6 +37,7 @@ makedocs(;
             "Time-series analysis" => "Tutorials/timeseries.md",
           ],
         "Others" => "Others/intro.md",
+        "Software Architecture" => "Architecture.md",
         "API" => "API.md"
     ],
 )
