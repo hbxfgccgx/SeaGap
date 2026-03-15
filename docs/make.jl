@@ -36,6 +36,7 @@ makedocs(;
             "Time-series analysis" => "Tutorials/timeseries.md",
           ],
         "Others" => "Others/intro.md",
+        "Software Architecture" => "Architecture.md",
         "API" => "API.md"
     ],
 )
