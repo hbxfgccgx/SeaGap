@@ -15,8 +15,10 @@ import DelimitedFiles
 import PDFmerger
 import GMT
 import Distributions  
+import GibbsSeaWater
 
 # Original functions
+include("soundvelocity.jl")
 include("dateprocessing.jl")
 include("ntdbasis.jl")
 include("perturbation.jl")

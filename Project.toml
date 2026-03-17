@@ -10,6 +10,7 @@ Dierckx = "39dd38d3-220a-591b-8e3c-4c3a8c710a94"
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 GMT = "5752ebe1-31b9-557e-87aa-f909b540aa54"
+GibbsSeaWater = "9a22fb26-0b63-4589-b28e-8f9d0b5c3d05"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
 PDFmerger = "3beb2ed1-af7d-458f-b727-6e9beb3586c0"
@@ -19,6 +20,7 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
 [compat]
+GibbsSeaWater = "0.1.4"
 julia = "1"
 
 [extras]
